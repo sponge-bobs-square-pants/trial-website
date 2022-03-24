@@ -17,8 +17,8 @@ body, html {
         height: 100vh;
         padding: 20px;
         display: grid;
-        grid-template-rows: auto auto auto auto auto;
-        grid-template-columns: auto auto auto auto auto; 
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
         grid-gap: 5px;
     }
     .headline {
